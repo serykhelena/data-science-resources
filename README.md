@@ -88,7 +88,7 @@ Explore, learn, and enjoy! 🚀
 
 ❤️❤️📽🇷🇺 [Полиморфизм (осторожно мат!)](https://www.youtube.com/watch?v=ve3eAhuaF0s)
 
-❤️❤️📽🇷🇺 [Прикольный видос про математику](https://www.youtube.com/watch?v=B1J6Ou4q8vE)
+❤️❤️📽 [Animation vs. Math](https://www.youtube.com/watch?v=B1J6Ou4q8vE)
 
 ❤️😺 [HTTP Codes Cheat Sheet with Cats](./guides/HTTP-CODES.md)
 
