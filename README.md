@@ -27,14 +27,13 @@ Explore, learn, and enjoy! 🚀
 
 ## Git 
 
-❤️❤️❤️ [Learning Git Branching](https://learngitbranching.js.org/?locale=ru_RU ): Free interactive course with nice visualization 
+❤️❤️❤️ [Learning Git Branching](https://learngitbranching.js.org/?locale=ru_RU ) 
 
-❤️❤️🇷🇺 [Free Git Yandex Course](https://start.practicum.yandex/git-basics): Might be temporarily unavailabe because they're updating it
+❤️❤️🇷🇺 [Free Git Yandex Course](https://start.practicum.yandex/git-basics)
 
-❤️❤️🇷🇺 [YouTube: Git Playlist](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb): Begginer friendly
+❤️❤️🇷🇺 [YouTube: Git Playlist](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
 
-🎮 [Oh, My Git!](https://ohmygit.org/): if you prefere gamification, you'd like it 😊 
-
+🎮 [Oh, My Git!](https://ohmygit.org/)
 
 [Table of Contents](#table-of-contents)
 
@@ -62,7 +61,7 @@ Explore, learn, and enjoy! 🚀
 
 ❤️🇷🇺 [Открытый курс машинного обучения (ODS)](https://habr.com/ru/companies/ods/articles/322626/)
 
-❤️ [Confusion Matrix](https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79): very nice explained 
+❤️ [Confusion Matrix](https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79) 
 
 ❤️❤️ [Confusion Matrix Cheat Sheet](./guides/CONFUSION-MATRIX.md)
 
