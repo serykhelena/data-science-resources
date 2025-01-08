@@ -22,6 +22,7 @@ Explore, learn, and enjoy! 🚀
 - [Git](#git)
 - [Python](#python)
 - [Machine Leaning](#machine-leaning)
+- [Computer Vision](#computer-vision)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Some random cool stuff](#some-random-cool-stuff)
 
@@ -70,6 +71,10 @@ Explore, learn, and enjoy! 🚀
 ❤️❤️😺 [Data Distributions with Cats](./guides/DATA-DISTRIBUTIONS.md)
 
 🎮 [Game with ML and cats](https://store.steampowered.com/app/619150/while_True_learn/)
+
+## Computer Vision
+
+❤️🇷🇺 [История YOLO](https://datasecrets.ru/articles/20)
 
 ## Algorithms and Data Structures 
 
