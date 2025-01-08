@@ -28,72 +28,52 @@ Explore, learn, and enjoy! 🚀
 
 ## Git 
 
-❤️❤️❤️ [Learning Git Branching](https://learngitbranching.js.org/?locale=ru_RU ) 
-
-❤️❤️🇷🇺 [Free Git Yandex Course](https://start.practicum.yandex/git-basics)
-
-❤️❤️🇷🇺 [YouTube: Git Playlist](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
-
-🎮 [Oh, My Git!](https://ohmygit.org/)
+- ❤️❤️❤️ [Learning Git Branching](https://learngitbranching.js.org/?locale=ru_RU ) 
+- ❤️❤️🇷🇺 [Free Git Yandex Course](https://start.practicum.yandex/git-basics)
+- ❤️❤️🇷🇺 [YouTube: Git Playlist](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
+- 🎮 [Oh, My Git!](https://ohmygit.org/)
 
 [Table of Contents](#table-of-contents)
 
 ## Python 
 
-❤️❤️❤️🇷🇺 [Stepik: Python основы и применение](https://stepik.org/course/512/syllabus)
-
-❤️❤️❤️🇷🇺 [Yandex Playlist: Как научиться Python разработке](https://habr.com/ru/companies/yandex/articles/498856/)
-
-❤️❤️❤️ [Python OOP Guides](https://www.pythontutorial.net/python-oop/)
-
-⭐️ [Kaggle Python Tutorials](https://www.kaggle.com/learn/python)
-
-🎮 [CheckIO](https://checkio.org/)
-
-🎮 [Codewars](https://www.codewars.com/)
+- ❤️❤️❤️🇷🇺 [Stepik: Python основы и применение](https://stepik.org/course/512/syllabus)
+- ❤️❤️❤️🇷🇺 [Yandex Playlist: Как научиться Python разработке](https://habr.com/ru/companies/yandex/articles/498856/)
+- ❤️❤️❤️ [Python OOP Guides](https://www.pythontutorial.net/python-oop/)
+- ⭐️ [Kaggle Python Tutorials](https://www.kaggle.com/learn/python)
+- 🎮 [CheckIO](https://checkio.org/)
+- 🎮 [Codewars](https://www.codewars.com/)
 
 [Table of Contents](#table-of-contents)
 
 ## Machine Leaning 
 
-❤️❤️📽 [ML for Everyone](https://www.youtube.com/watch?v=i_LwzRVP7bg)
-
-❤️ [Kaggle Tutorials](https://www.kaggle.com/learn)
-
-❤️🇷🇺 [Открытый курс машинного обучения (ODS)](https://habr.com/ru/companies/ods/articles/322626/)
-
-❤️ [Confusion Matrix](https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79) 
-
-❤️❤️ [Confusion Matrix Cheat Sheet](./guides/CONFUSION-MATRIX.md)
-
-❤️❤️❤️ [Classification Metrics Cheat Sheet](./guides/CLF-METRICS.md)
-
-❤️❤️😺 [Data Distributions with Cats](./guides/DATA-DISTRIBUTIONS.md)
-
-🎮 [Game with ML and cats](https://store.steampowered.com/app/619150/while_True_learn/)
+- ❤️❤️📽 [ML for Everyone](https://www.youtube.com/watch?v=i_LwzRVP7bg)
+- ❤️ [Kaggle Tutorials](https://www.kaggle.com/learn)
+- ❤️🇷🇺 [Открытый курс машинного обучения (ODS)](https://habr.com/ru/companies/ods/articles/322626/)
+- ❤️ [Confusion Matrix](https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79) 
+- ❤️❤️ [Confusion Matrix Cheat Sheet](./guides/CONFUSION-MATRIX.md)
+- ❤️❤️ [Classification Metrics Cheat Sheet](./guides/CLF-METRICS.md)
+- ❤️😺 [Data Distributions with Cats](./guides/DATA-DISTRIBUTIONS.md)
+- 🎮 [Game with ML and cats](https://store.steampowered.com/app/619150/while_True_learn/)
 
 ## Computer Vision
 
-❤️🇷🇺 [История YOLO](https://datasecrets.ru/articles/20)
+* ❤️🇷🇺 [История YOLO v1-v11](https://datasecrets.ru/articles/20)
 
 ## Algorithms and Data Structures 
 
-❤️❤️📽 [CS50](https://habr.com/ru/companies/vertdider/articles/403823/)
-
-⭐️⭐️⭐️ [Stepik: Data Structures](https://stepik.org/course/579/syllabus)
+- ❤️❤📽 [CS50](https://habr.com/ru/companies/vertdider/articles/403823/)
+- ⭐️⭐️⭐️ [Stepik: Data Structures](https://stepik.org/course/579/syllabus)
 
 [Table of Contents](#table-of-contents)
 
 ## Some random cool stuff 
 
-❤️❤️📽🇷🇺 [Самые частые заблуждения об ООП (осторожно мат!)](https://www.youtube.com/watch?v=BHNt1fcg8iw)
-
-❤️❤️📽🇷🇺 [Главная ошибка ООП - инкапсуляция (осторожно мат!)](https://www.youtube.com/watch?v=yNUJ3vAeyJQ)
-
-❤️❤️📽🇷🇺 [Полиморфизм (осторожно мат!)](https://www.youtube.com/watch?v=ve3eAhuaF0s)
-
-❤️❤️📽 [Animation vs. Math](https://www.youtube.com/watch?v=B1J6Ou4q8vE)
-
-❤️😺 [HTTP Codes Cheat Sheet with Cats](./guides/HTTP-CODES.md)
+- ❤️📽🇷🇺 [Самые частые заблуждения об ООП (осторожно мат!)](https://www.youtube.com/watch?v=BHNt1fcg8iw)
+- ❤️📽🇷🇺 [Главная ошибка ООП - инкапсуляция (осторожно мат!)](https://www.youtube.com/watch?v=yNUJ3vAeyJQ)
+- ❤️📽🇷🇺 [Полиморфизм (осторожно мат!)](https://www.youtube.com/watch?v=ve3eAhuaF0s)
+- ❤️📽 [Animation vs. Math](https://www.youtube.com/watch?v=B1J6Ou4q8vE)
+- ❤️😺 [HTTP Codes Cheat Sheet with Cats](./guides/HTTP-CODES.md)
 
 [Table of Contents](#table-of-contents)
