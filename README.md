@@ -1,27 +1,32 @@
 
 # Awesome Resources for Programming and Beyond 🌟
 
-Welcome to my personal collection of resources for various topics, including:
+Welcome to my collection of resources for various topics.
 
-- Git: Learn to manage your repositories effectively.
-- Machine Learning: Dive into cutting-edge ML techniques and concepts.
-- Python: Explore tips, tricks, and libraries for Python enthusiasts.
-- Algorithms: Sharpen your problem-solving skills with algorithmic resources.
-- Random Cool Stuff: A curated selection of programming-related gems I’ve stumbled upon.
+📂 **Topics Covered**
+- **Git**: Learn to manage your repositories effectively.
+- **Machine Learning**: Dive into cutting-edge ML techniques and concepts (including deep learning.
+- **Python**: Explore tips, tricks, and libraries for Python enthusiasts.
+- **Algorithms**: Sharpen your problem-solving skills with algorithmic resources.
+- **Miscellaneous Gems**: A curated selection of programming-related gems I’ve stumbled upon.
 
-This repository is my go-to place for knowledge, inspiration, and learning. Whether you’re a beginner or an experienced professional, I hope that you’ll find something interesting here.
+💡 **About This Repository**
+
+This repository is my go-to hub for continuous learning, innovation, and inspiration. Whether you’re a beginner or an experienced professional, I hope you’ll find something interesting here.
 
 > **Notes**: Some links and resources may only be available in Russian.
 
-Contributions, suggestions, or your favorite resources are always welcome!
+🤝 **Contribute & Collaborate**
 
-Explore, learn, and enjoy! 🚀
+Contributions, suggestions, or your favourite resources are always welcome!
+
+🚀 **Explore, Learn, and enjoy**
 
 ## Table of Contents 
 - [Table of Contents](#table-of-contents)
 - [Git](#git)
 - [Python](#python)
-- [Machine Leaning](#machine-leaning)
+- [Machine Learning](#machine-leaning)
 - [Computer Vision](#computer-vision)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Some random cool stuff](#some-random-cool-stuff)
@@ -29,8 +34,13 @@ Explore, learn, and enjoy! 🚀
 ## Git 
 
 - ❤️❤️❤️ [Learning Git Branching](https://learngitbranching.js.org/?locale=ru_RU ) 
-- ❤️❤️🇷🇺 [Free Git Yandex Course](https://start.practicum.yandex/git-basics)
+- ❤️❤️🇷🇺 [Yandex Practicum: Git Basics](https://start.practicum.yandex/git-basics): ⚠️ May be temporarily unavailable due to ongoing updates
 - ❤️❤️🇷🇺 [YouTube: Git Playlist](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
+- ⭐📽🇷🇺 [Git: Большой выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw)
+- ⭐ [Codeacademy: Learn-Git](https://www.codecademy.com/learn/learn-git)
+- ⭐ [Official Git HOWTO](https://githowto.com/ru)
+- ⭐ [Bitbucket Tutorial](https://www.atlassian.com/ru/git/tutorials)
+- ⭐ [30 min Git](https://proglib.io/p/git-for-half-an-hour)
 - 🎮 [Oh, My Git!](https://ohmygit.org/)
 
 [Table of Contents](#table-of-contents)
@@ -46,7 +56,7 @@ Explore, learn, and enjoy! 🚀
 
 [Table of Contents](#table-of-contents)
 
-## Machine Leaning 
+## Machine Learning 
 
 - ❤️❤️📽 [ML for Everyone](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 - ❤️ [Kaggle Tutorials](https://www.kaggle.com/learn)
