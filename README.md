@@ -59,6 +59,7 @@ Contributions, suggestions, or your favourite resources are always welcome!
 ## Machine Learning 
 
 - ❤️❤️📽 [ML for Everyone](https://www.youtube.com/watch?v=i_LwzRVP7bg)
+- ❤️❤️ [LGBM vs. XGB: How are they different](https://neptune.ai/blog/xgboost-vs-lightgbm)
 - ❤️ [Kaggle Tutorials](https://www.kaggle.com/learn)
 - ❤️🇷🇺 [Открытый курс машинного обучения (ODS)](https://habr.com/ru/companies/ods/articles/322626/)
 - ❤️ [Confusion Matrix](https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79) 
