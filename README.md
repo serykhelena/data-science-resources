@@ -5,7 +5,7 @@ Welcome to my collection of resources for various topics.
 
 📂 **Topics Covered**
 - **Git**: Learn to manage your repositories effectively.
-- **Machine Learning**: Dive into cutting-edge ML techniques and concepts (including deep learning.
+- **Machine Learning**: Dive into cutting-edge ML techniques and concepts (including deep learning).
 - **Python**: Explore tips, tricks, and libraries for Python enthusiasts.
 - **Algorithms**: Sharpen your problem-solving skills with algorithmic resources.
 - **Miscellaneous Gems**: A curated selection of programming-related gems I’ve stumbled upon.
@@ -26,7 +26,7 @@ Contributions, suggestions, or your favourite resources are always welcome!
 - [Table of Contents](#table-of-contents)
 - [Git](#git)
 - [Python](#python)
-- [Machine Learning](#machine-leaning)
+- [Machine Learning](#machine-learning)
 - [Computer Vision](#computer-vision)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Some random cool stuff](#some-random-cool-stuff)
@@ -64,6 +64,7 @@ Contributions, suggestions, or your favourite resources are always welcome!
 - ❤️🇷🇺 [Открытый курс машинного обучения (ODS)](https://habr.com/ru/companies/ods/articles/322626/)
 - ❤️ [Confusion Matrix](https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79) 
 - ❤️❤️ [Confusion Matrix Cheat Sheet](./guides/CONFUSION-MATRIX.md)
+- ❤️ [Dowsampling Cheat Sheet](./guides/DOWNSAMPLING.md)
 - ❤️❤️ [Classification Metrics Cheat Sheet](./guides/CLF-METRICS.md)
 - ❤️😺 [Data Distributions with Cats](./guides/DATA-DISTRIBUTIONS.md)
 - 🎮 [Game with ML and cats](https://store.steampowered.com/app/619150/while_True_learn/)
