@@ -28,3 +28,14 @@
 </p>
 
 
+| <div style="width:500px">One Sided Selection</div> | <div style="width:500px">Tomek’s links</div> |
+|-------------------------------------------|-------------------------------------------|
+| <div style="width:500px">[This approach](https://imbalanced-learn.org/stable/under_sampling.html#condensed-nearest-neighbors-and-derived-algorithms) uses the Tomek Links algorithm to remove noisy samples. In addition, the 1 nearest neighbour rule is applied to all samples and the ones which are misclassified will be added to the set of minority samples.</div> | <div style="width:500px">[This approach](https://imbalanced-learn.org/stable/under_sampling.html#tomek-s-links) detects the so-called Tomek’s links. A Tomek’s link exists if the two samples are the nearest neighbours of each other.</div> |
+
+
+<p float="left">
+  <img src="../assets/downsampling/one-ss.png" height=350 width=500 />
+  <img src="../assets/downsampling/tomeks.png" height=350 width=500 /> 
+</p>
+
+
