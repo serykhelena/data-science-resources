@@ -89,6 +89,8 @@ Contributions, suggestions, or your favourite resources are always welcome!
 - ❤️📽🇷🇺 [Самые частые заблуждения об ООП (осторожно мат!)](https://www.youtube.com/watch?v=BHNt1fcg8iw)
 - ❤️📽🇷🇺 [Главная ошибка ООП - инкапсуляция (осторожно мат!)](https://www.youtube.com/watch?v=yNUJ3vAeyJQ)
 - ❤️📽🇷🇺 [Полиморфизм (осторожно мат!)](https://www.youtube.com/watch?v=ve3eAhuaF0s)
+- ❤️📽🇷🇺 [SQLAlchemy для начинающих](https://www.youtube.com/playlist?list=PLeLN0qH0-mCXARD_K-USF2wHctxzEVp40)
+- ❤️📽🇷🇺 [Docker для начинающих](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zznkO6nZoG8pWfKGK0RqBo)
 - ❤️📽 [Animation vs. Math](https://www.youtube.com/watch?v=B1J6Ou4q8vE)
 - ❤️😺 [HTTP Codes Cheat Sheet with Cats](./guides/HTTP-CODES.md)
 
