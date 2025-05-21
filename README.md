@@ -28,13 +28,13 @@ Contributions, suggestions, or your favourite resources are always welcome!
 - [Python](#python)
 - [Machine Learning](#machine-learning)
 - [Computer Vision](#computer-vision)
+- [LLM](#llm)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Some random cool stuff](#some-random-cool-stuff)
 
 ## Git 
 
 - ❤️❤️❤️ [Learning Git Branching](https://learngitbranching.js.org/?locale=ru_RU ) 
-- ❤️❤️🇷🇺 [Yandex Practicum: Git Basics](https://start.practicum.yandex/git-basics): ⚠️ May be temporarily unavailable due to ongoing updates
 - ❤️❤️🇷🇺 [YouTube: Git Playlist](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
 - ⭐📽🇷🇺 [Git: Большой выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw)
 - ⭐ [Codeacademy: Learn-Git](https://www.codecademy.com/learn/learn-git)
@@ -72,6 +72,10 @@ Contributions, suggestions, or your favourite resources are always welcome!
 ## Computer Vision
 
 * ❤️🇷🇺 [История YOLO v1-v11](https://datasecrets.ru/articles/20)
+
+## LLM 
+
+* ❤️[Promt Engineering Guide](https://www.kaggle.com/whitepaper-prompt-engineering)
 
 ## Algorithms and Data Structures 
 
