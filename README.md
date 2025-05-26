@@ -76,6 +76,7 @@ Contributions, suggestions, or your favourite resources are always welcome!
 ## LLM 
 
 * ❤️[Promt Engineering Guide](https://www.kaggle.com/whitepaper-prompt-engineering)
+* ❤️🇷🇺 [Конспект по LLM от Data Secrets](./docs/Конспект%20LLM.pdf)
 
 ## Algorithms and Data Structures 
 
