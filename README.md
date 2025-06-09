@@ -75,6 +75,7 @@ Contributions, suggestions, or your favourite resources are always welcome!
 
 ## LLM 
 
+* ❤️❤️❤️[Deep Dive into LLMs like ChatGPT by Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI&t=6s)
 * ❤️[Promt Engineering Guide](https://www.kaggle.com/whitepaper-prompt-engineering)
 * ❤️🇷🇺 [Конспект по LLM от Data Secrets](./docs/Конспект%20LLM.pdf)
 
