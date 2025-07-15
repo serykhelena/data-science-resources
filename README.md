@@ -36,6 +36,7 @@ Contributions, suggestions, or your favourite resources are always welcome!
 
 - ❤️❤️❤️ [Learning Git Branching](https://learngitbranching.js.org/?locale=ru_RU ) 
 - ❤️❤️🇷🇺 [YouTube: Git Playlist](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
+- ❤️🇷🇺[GitFlow](https://habr.com/ru/articles/767424/)
 - ⭐📽🇷🇺 [Git: Большой выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw)
 - ⭐ [Codeacademy: Learn-Git](https://www.codecademy.com/learn/learn-git)
 - ⭐ [Official Git HOWTO](https://githowto.com/ru)
@@ -76,8 +77,10 @@ Contributions, suggestions, or your favourite resources are always welcome!
 ## LLM 
 
 * ❤️❤️❤️[Deep Dive into LLMs like ChatGPT by Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI&t=6s)
-* ❤️[Promt Engineering Guide](https://www.kaggle.com/whitepaper-prompt-engineering)
 * ❤️🇷🇺 [Конспект по LLM от Data Secrets](./docs/Конспект%20LLM.pdf)
+* ⭐️⭐️ [Chain of Thoughts Explained  (LangChain)](https://www.codecademy.com/article/chain-of-thought-cot-prompting)
+* ⭐️[Promt Engineering Guide](https://www.kaggle.com/whitepaper-prompt-engineering)
+* 
 
 ## Algorithms and Data Structures 
 
