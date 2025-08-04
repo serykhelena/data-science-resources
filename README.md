@@ -77,7 +77,7 @@ Contributions, suggestions, or your favourite resources are always welcome!
 ## LLM 
 
 * ❤️❤️❤️[Deep Dive into LLMs like ChatGPT by Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI&t=6s)
-* ❤️🇷🇺 [Конспект по LLM от Data Secrets](./docs/Конспект%20LLM.pdf)
+* ❤️🇷🇺 [Конспект по LLM от Data Secrets](https://datasecrets.ru/abstracts/llm)
 * ⭐️⭐️ [Chain of Thoughts Explained  (LangChain)](https://www.codecademy.com/article/chain-of-thought-cot-prompting)
 * ⭐️[Promt Engineering Guide](https://www.kaggle.com/whitepaper-prompt-engineering)
 * 
