@@ -72,7 +72,9 @@ Contributions, suggestions, or your favourite resources are always welcome!
 
 ## Computer Vision
 
+* ❤️❤️ [How do AI image and video generation work?](https://www.youtube.com/watch?v=iv-5mZ_9CPY)
 * ❤️🇷🇺 [История YOLO v1-v11](https://datasecrets.ru/articles/20)
+
 
 ## LLM 
 
