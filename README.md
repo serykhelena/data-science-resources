@@ -80,9 +80,11 @@ Contributions, suggestions, or your favourite resources are always welcome!
 
 * ❤️❤️❤️[Deep Dive into LLMs like ChatGPT by Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI&t=6s)
 * ❤️🇷🇺 [Конспект по LLM от Data Secrets](https://datasecrets.ru/abstracts/llm)
+* ❤️⭐️ **Stanford CS230 by Andrew Ng**
+  * ❤️ [Lecture 1: Intro to Deep Learinig](https://www.youtube.com/watch?v=_NLHFoVNlbg)
 * ⭐️⭐️ [Chain of Thoughts Explained  (LangChain)](https://www.codecademy.com/article/chain-of-thought-cot-prompting)
-* ⭐️[Promt Engineering Guide](https://www.kaggle.com/whitepaper-prompt-engineering)
-* 
+* ⭐️ [Promt Engineering Guide](https://www.kaggle.com/whitepaper-prompt-engineering)
+
 
 ## Algorithms and Data Structures 
 
