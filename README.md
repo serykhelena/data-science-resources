@@ -82,7 +82,8 @@ Contributions, suggestions, or your favourite resources are always welcome!
 * ❤️🇷🇺 [Конспект по LLM от Data Secrets](https://datasecrets.ru/abstracts/llm)
 * ❤️⭐️ **Stanford CS230 by Andrew Ng**
   * ⭐️ [Lecture 1: Intro to Deep Learinig](https://www.youtube.com/watch?v=_NLHFoVNlbg)
-  * ❤️ [Lecture 2: Supervised, Self-Supervised, & Weakly Supervised Learning](https://www.youtube.com/watch?v=DNCn1BpCAUY)
+  * ⭐️ [Lecture 2: Supervised, Self-Supervised, & Weakly Supervised Learning](https://www.youtube.com/watch?v=DNCn1BpCAUY)
+  * ⭐️ [Lecture 3: Full Cycle of a DL project](https://www.youtube.com/watch?v=MGqQuQEUXhk)
 * ⭐️⭐️ [Chain of Thoughts Explained  (LangChain)](https://www.codecademy.com/article/chain-of-thought-cot-prompting)
 * ⭐️ [Promt Engineering Guide](https://www.kaggle.com/whitepaper-prompt-engineering)
 
