@@ -80,6 +80,7 @@ Contributions, suggestions, or your favourite resources are always welcome!
 
 * ❤️❤️❤️[Deep Dive into LLMs like ChatGPT by Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI&t=6s)
 * ❤️🇷🇺 [Конспект по LLM от Data Secrets](https://datasecrets.ru/abstracts/llm)
+* ❤️ [How do vector databases work?](https://www.byhand.ai/p/14-can-you-calculate-a-vector-database)
 * ❤️⭐️ **Stanford CS230 by Andrew Ng**
   * ⭐️ [Lecture 1: Intro to Deep Learinig](https://www.youtube.com/watch?v=_NLHFoVNlbg)
   * ⭐️ [Lecture 2: Supervised, Self-Supervised, & Weakly Supervised Learning](https://www.youtube.com/watch?v=DNCn1BpCAUY)
